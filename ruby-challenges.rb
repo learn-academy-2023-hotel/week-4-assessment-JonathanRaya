@@ -13,7 +13,7 @@ reposts3 = 221
 # Pseudo code:
 # Create a method named odd-or-even that takes a number as a variable
 # make a conditional statment in the method that checks if the arguement has a remainder after being divided by 2
-#  if there is no remainder return the number is even If there is a remeainder return the number is odd.
+#  if there is no remainder return the number is even If there is a remainder return the number is odd.
 
 def even_or_odd (number)
     if number % 2 == 0
